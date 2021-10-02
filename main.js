@@ -80,7 +80,7 @@ const app = {
         },
         {
             name: "ĐẸP TRAI",
-            singer: "Max ft KayDee",
+            singer: "Max ft - KayDee",
             path: "./mp3/deptrai.mp3",
             image: "./logomp3.png"
         },
