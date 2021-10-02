@@ -90,6 +90,48 @@ const app = {
             path: "./mp3/cobadiva.mp3",
             image: "./logomp3.png"
         },
+            {
+            name: "CÔ ĐƠN DÀNH CHO AI ĐÂY",
+            singer: "LEE KEN x NAL",
+            path: "./mp3/codondanhchoaiday.mp3",
+            image: "./logomp3.png"
+        },
+        {
+            name: "CON ĐÒ LỠ HẸN",
+            singer: "H2K x Kunzing",
+            path: "./mp3/condolohen.mp3",
+            image: "./logomp3.png"
+        },
+        {
+            name: "ÉP DUYÊN",
+            singer: "YUNIBOO ft NAM ANH",
+            path: "./mp3/epduyen.mp3",
+            image: "./logomp3.png"
+        },
+        {
+            name: "HOA BẰNG LĂNG",
+            singer: "Kidz",
+            path: "./mp3/hoabanglang.mp3",
+            image: "./logomp3.png"
+        },
+        {
+            name: "HOA BỈ NGẠN",
+            singer: "GAVIN X LIGHTA",
+            path: "./mp3/hoabingan.mp3",
+            image: "./logomp3.png"
+        },
+        {
+            name: "MỸ NHÂN",
+            singer: "Đinh Đại Vũ",
+            path: "./mp3/mynhan.mp3",
+            image: "./logomp3.png"
+        },
+        {
+            name: "VỀ QUÊ ANH LO",
+            singer: "The Night x Sinkra",
+            path: "./mp3/vequeanhlo.mp3",
+            image: "./logomp3.png"
+        },
     ],
     setConfig: function(key, value) {
         this.config[key] = value;
