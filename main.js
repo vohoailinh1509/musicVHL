@@ -22,7 +22,7 @@ const app = {
     isRandom: false,
     isRepeat: false,
     config: {},
-    //config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
+    config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
 
     songs: [{
             name: "PHÙ DUNG",
@@ -72,7 +72,7 @@ const app = {
             path: "./mp3/khuyemoclan.mp3",
             image: "./logomp3.png"
         },
-            {
+        {
             name: "TYLER NGÔ",
             singer: "XAVI",
             path: "./mp3/tylerngo.mp3",
