@@ -132,6 +132,12 @@ const app = {
             path: "./mp3/vequeanhlo.mp3",
             image: "./logomp3.png"
         },
+            {
+            name: "THAY LÒNG",
+            singer: "NAL x VTK",
+            path: "./mp3/thaylong.mp3",
+            image: "./logomp3.png"
+        },
     ],
     setConfig: function(key, value) {
         this.config[key] = value;
