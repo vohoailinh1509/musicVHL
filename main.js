@@ -32,7 +32,7 @@ const app = {
         },
         {
             name: "TÂM TƯ TRONG LÒNG",
-            singer: "Khả Hiệp",
+            singer: "KHẢ HIỆP",
             path: "./mp3/tamtutronglong.mp3",
             image: "./logomp3.png"
         },
@@ -62,7 +62,7 @@ const app = {
         },
         {
             name: "TÌNH PHU THÊ",
-            singer: "Chí Hướng",
+            singer: "CHÍ HƯỚNG",
             path: "./mp3/tinhphuthe.mp3",
             image: "./logomp3.png"
         },
