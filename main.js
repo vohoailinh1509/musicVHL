@@ -78,6 +78,12 @@ const app = {
             path: "./mp3/tylerngo.mp3",
             image: "./logomp3.png"
         },
+        {
+            name: "ĐẸP TRAI",
+            singer: "Max ft KayDee",
+            path: "./mp3/deptrai.mp3",
+            image: "./logomp3.png"
+        },
     ],
     setConfig: function(key, value) {
         this.config[key] = value;
