@@ -138,6 +138,30 @@ const app = {
             path: "./mp3/thaylong.mp3",
             image: "./logomp3.png"
         },
+            {
+            name: "ĐẾ QUÂN",
+            singer: "Việt Quất x Phạm Triệu Viễn x DNH",
+            path: "./mp3/dequan.mp3",
+            image: "./logomp3.png"
+        },
+        {
+            name: "HOÀNG HOA KÝ",
+            singer: "LONG NÓN LÁ",
+            path: "./mp3/hoanghoaky.mp3",
+            image: "./logomp3.png"
+        },
+        {
+            name: "THÌ THÔI",
+            singer: "TVk x Nal x T-Passion",
+            path: "./mp3/thithoi.mp3",
+            image: "./logomp3.png"
+        },
+        {
+            name: "TUÝ KHUYNH THÀNH",
+            singer: "TIỂU A PHONG",
+            path: "./mp3/tuykhuynhthanh.mp3",
+            image: "./logomp3.png"
+        },
     ],
     setConfig: function(key, value) {
         this.config[key] = value;
